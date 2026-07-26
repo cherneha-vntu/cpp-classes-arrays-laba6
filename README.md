@@ -5,12 +5,15 @@ This project is a laboratory/practical work for the "Computer Technologies and P
 ## Programs Included
 
 ### 1. Move Extrema (`task1.cpp`)
+
 This program uses a class `Array1D` to find the minimum and maximum elements of a 1D dynamic array and moves them to the ends (minimum to the first position, maximum to the last) without sorting the array.
 
 ### 2. Sum Negative Triangles (`task2.cpp`)
+
 This program uses a class `Array2D` to find the sum of negative elements in both the upper and lower triangular parts of a 2D dynamic array, returning them in a new 1D array.
 
 ### 3. Analyze Even Elements (`task3.cpp`)
+
 This program analyzes a 1D dynamic array, counting its even elements, calculating their sum, and computing their arithmetic mean using an `Array1D` class and an external helper function.
 
 ## How to Compile and Run
@@ -31,6 +34,7 @@ g++ task3.cpp -o task3
 ## Example Usage
 
 ### task1
+
 ```text
 Розмір масиву: 7
 Введіть 7 елементів:
@@ -46,6 +50,7 @@ data[6] = 4
 ```
 
 ### task2
+
 ```text
 Введіть кількість рядків і стовпців: 3 3
 data[0][0] = 2
@@ -65,6 +70,7 @@ data[2][2] = 1
 ```
 
 ### task3
+
 ```text
 Розмір масиву: 8
 Введіть 8 елементів:
@@ -94,4 +100,5 @@ Contributions are welcome and appreciated! Here's how you can contribute:
 Please make sure to update tests as appropriate and adhere to the existing coding style.
 
 ## License
+
 This project is licensed under the CSSM Unlimited License v2.0 (CSSM-ULv2). See the [LICENSE](LICENSE) file for details.
