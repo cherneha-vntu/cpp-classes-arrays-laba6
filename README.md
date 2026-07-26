@@ -1,4 +1,4 @@
-# Laboratory Work 6
+# Lab Work 6: Classes and Dynamic Arrays in C++
 
 This project is a laboratory/practical work for the "Computer Technologies and Programming" course. It contains three programs that demonstrate the use of simple classes and objects for manipulating 1D and 2D dynamic arrays in C++.
 
